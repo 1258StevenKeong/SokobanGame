@@ -16,4 +16,4 @@ Environmental Requirements and Kit Descriptions:
 There are no restrictions on the software required, on the disclaimer that it was made by me last semester, there may be small bugs.
 
 Reference:
-Characters, chests and walls of image: https://kenney.nl/assets/sokoban
+Characters, chests, floors and walls of image: https://kenney.nl/assets/sokoban
