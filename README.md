@@ -3,11 +3,11 @@ pyhon
 Purpose of the game:
 Nostalgia for old games, think a lot of people pay attention to this game.
 
-game name: main.exe
+game file name: main.exe
 
-pyhon code name: main.py
+pyhon code file name: main.py
 
-Final project name: COMP2116.docx
+Final project file name: COMP2116.docx
 
 Development process:
 Intehrate the .exe with vscode's related python modules run and test, and with pygame.
