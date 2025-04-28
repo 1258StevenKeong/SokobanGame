@@ -1,9 +1,9 @@
-# SokobanGame
+# Target:SokobanGame
 pyhon
 Purpose of the game:
 Nostalgia for old games, think a lot of people pay attention to this game.
 
-game file name: main.exe
+Developing a new software (game file name): main.exe
 
 pyhon code file name: main.py
 
