@@ -7,6 +7,8 @@ game name: main.exe
 
 pyhon code name: main.py
 
+Final project name: COMP2116.docx
+
 Development process:
 Intehrate the .exe with vscode's related python modules run and test, and with pygame.
 
