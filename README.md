@@ -24,5 +24,5 @@ There are no restrictions on the software required, on the disclaimer that it(ga
 Reference:
 Characters, chests, floors and walls of image: https://kenney.nl/assets/sokoban
 
-Domo: 
+Demo: 
 https://youtu.be/v1qWsLPpCLo
