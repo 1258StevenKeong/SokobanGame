@@ -3,6 +3,8 @@ pyhon
 Purpose of the game:
 Nostalgia for old games, think a lot of people pay attention to this game.
 
+game name: main.exe
+
 Development process:
 Intehrate the .exe with vscode's related python modules run and test, and with pygame.
 
